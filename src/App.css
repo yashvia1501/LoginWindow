@@ -1,0 +1,11 @@
+@media only screen and (max-width: 696px) {
+  .bgImg {
+    display: none;
+  }
+}
+/* Add this in your CSS file or a styled-component */
+@media (max-width: 317px) {
+  .modal {
+    display: none !important;
+  }
+}
